@@ -1,0 +1,11 @@
+customer_name,email,phone,loyalty_status
+John Doe,john@example.com,08012345678,Gold
+Mary Johnson,maryj@gmail.com,08087654321,Silver
+Aliyu Musa,,08011223344,Bronze
+Chioma Okafor,chioma@mail.com,,Gold
+David Smith,david@mail.com,08099887766,Silver
+Aisha Bello,aisha@mail.com,08055667788,Bronze
+Emeka Obi,emeka@mail.com,08022334455,Gold
+Grace Lee,grace@mail.com,08066778899,Silver
+Samuel Ade,samuel@mail.com,08044556677,Bronze
+Zainab Ali,zainab@mail.com,08033445566,Gold

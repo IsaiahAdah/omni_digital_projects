@@ -1,0 +1,16 @@
+order_id,customer_name,gender,age,city,order_date,product,category,price,quantity,total_amount,payment_method
+1001,John Doe,Male,25,Abuja,2024-01-05,Phone,Electronics,120000,1,120000,Card
+1002,Mary Johnson,F,30,Lagos,05/01/2024,Laptop,Electronics,350000,1,350000,card
+1003,Aliyu Musa,male,,Kano,2024/01/06,Headphones,electronic,15000,2,30000,Cash
+1004,Chioma Okafor,Female,28,Enugu,2024-01-07,Blender,Home Appliance,25000,1,25000,Cash
+1005,David Smith,M,35,Abuja,07-01-2024,Phone,Electronics,120000,1,120000,Transfer
+1006,Aisha Bello,Female,22,Kaduna,2024-01-08,phone,electronics,120000,1,120000,card
+1007,Emeka Obi,Male,40,Lagos,,TV,Electronics,450000,1,450000,Cash
+1008,Grace Lee,Female,29,Abuja,2024-01-09,Laptop,Electronics,,1,350000,Card
+1009,John Doe,Male,25,Abuja,2024-01-05,Phone,Electronics,120000,1,120000,Card
+1010,Samuel Ade,Male,thirty,Ibadan,2024-01-10,Fridge,Home Appliance,300000,1,300000,Transfer;
+1011,Zainab Ali,F,27,Kano,2024-01-11,Microwave,Home appliance,80000,1,80000,Cash
+1012,Peter Obi,Male,45,Onitsha,2024-01-12,TV,Electronics,450000,1,,Card
+1013,Ngozi Eze,Female,31,Enugu,2024-13-01,Washing Machine,Home Appliance,200000,1,200000,Cash
+1014,Ahmed Lawal,M,38,Abuja,2024-01-14,Phone,Electronics,120000,1,120000,transfer
+1015,Sarah Kim,Female,26,Lagos,2024-01-15,Laptop,Electronics,350000,1,350000,Card
