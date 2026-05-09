@@ -88,16 +88,6 @@ with col_title:
 st.divider()
 
 
-# --- Technology Tags ---
-st.caption(
-    "Technologies: Python  |  Scikit-learn  |  "
-    "Logistic Regression  |  Decision Tree  |  "
-    "Joblib  |  Streamlit  |  Pandas  |  NumPy"
-)
-
-st.divider()
-
-
 # ============================================================
 # PATIENT INPUT FORM
 # ============================================================
