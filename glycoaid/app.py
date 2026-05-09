@@ -73,35 +73,20 @@ with st.sidebar:
 
 
 # ============================================================
-# HEADER
+# CLEAN MEDICAL HEADER
 # ============================================================
 
-header_col1, header_col2 = st.columns([3, 1])
+col_logo, col_title = st.columns([1, 8])
 
-with header_col1:
-    st.title("🩺 GlycoAID")
-    st.subheader("AI-Powered Diabetes Risk Prediction System")
-    st.write("Enter the patient's diagnostic information below to receive an instant diabetes risk assessment.")
+with col_logo:
+    st.write("🩺")
 
-with header_col2:
-    st.metric(label="Dataset", value="768 Records")
-    st.metric(label="Features", value="8 Inputs")
+with col_title:
+    st.markdown("# GlycoAID")
+    st.markdown("**Diabetes Early Screening System** &nbsp;|&nbsp; Queens Hospital Akure &nbsp;|&nbsp; AI Healthcare Support")
 
 st.divider()
 
-# --- Stats Row ---
-stat1, stat2, stat3, stat4 = st.columns(4)
-
-with stat1:
-    st.metric(label="ML Models Trained", value="2 Models")
-with stat2:
-    st.metric(label="Model Type", value="Classification")
-with stat3:
-    st.metric(label="Prediction Speed", value="Real-time")
-with stat4:
-    st.metric(label="Dataset Source", value="Pima Indians")
-
-st.divider()
 
 # --- Technology Tags ---
 st.caption(
