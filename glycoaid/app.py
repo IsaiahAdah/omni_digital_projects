@@ -83,7 +83,7 @@ with col_logo:
 
 with col_title:
     st.markdown("# GlycoAID")
-    st.markdown("**Diabetes Early Screening System** &nbsp;|&nbsp; Queens Hospital Akure &nbsp;|&nbsp; AI Healthcare Support")
+    st.markdown("**Diabetes Early Screening System** &nbsp;|&nbsp;|&nbsp; AI Healthcare Support")
 
 st.divider()
 
